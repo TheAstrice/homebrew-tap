@@ -1,2 +1,2 @@
 # homebrew-tap
-Homebrew formulae for TheAstrice tools
+Homebrew formulae for TheAstrice
